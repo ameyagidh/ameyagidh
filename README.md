@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 **Field of interests**: AGI, NLP, RL, Graphs, Distributed Systems
 
-**My telegram channel**: [Cat's Shredinger](https://t.me/cats_shredinger)
+**My telegram channel**: 
 
 <!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 | Junior Data Scientist  | Sberbank        | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
 
 ### Education 🎓
-- [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Lomonosov Moscow State University (2019 - 2023)
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ Plekhanov Russian University of Economics (2015 - 2019)
+- [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Northeastern University (2021 - 2023)
+- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ sardar Patel college of Engineering (Spce) (2017 - 2021)
 
 ### Projects 🐾
 - [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
