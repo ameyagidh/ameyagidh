@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 
 
-#A
+#Ameya Santosh Gidh
 ![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
 ![](https://img.shields.io/github/followers/dayyass?style=social)<br>
 ![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
-### Hi, my name is Dani 👋 and I ❤️ AI and Open-Source
+### Hi, my name is Ameya 👋 and I ❤️ Computer Science
 
 **Field of interests**: AGI, NLP, RL, Graphs, Distributed Systems
 
