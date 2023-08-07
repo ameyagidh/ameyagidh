@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkatesh Desai</h1>
+<h1 align="center">Hi 👋, I'm Ameya Santosh Gidh</h1>
 <h3 align="justify">I'm passionate about the limitless potential of machine learning, deep learning, robotics and perception. Constantly exploring the boundaries of artificial intelligence to unravel new insights and solve complex problems. Committed to building intelligent systems that can perceive, understand, and interact with the world in unprecedented ways. Equipped with a solid foundation in cutting-edge algorithms and techniques, and a drive to push the boundaries of what is possible. Dedicated to sharing knowledge and collaborating with the community to drive innovation forward. Join me on this thrilling journey of discovery and transformation at the intersection of technology and intelligence. Together, let's shape the future through the power of machine learning and computer vision.</h3>
 
 <img align="right" alt="CV" width="400" src="https://sgu.ac.id/wp-content/uploads/2020/12/1_QHxBLzMK7rp_5ysw77uK3A.gif">
@@ -6,11 +6,11 @@
 - 👯 I’m looking to collaborate on Machine Learning and Computer Vision Projects.
 - 🤔 I’m looking for help with learning new stuff!
 - 💬 Ask me about anything you feel like!
-- 📫 Reach out to me at **venkateshdesai301@gmail.com**
+- 📫 Reach out to me at **ameyagidh2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkateshdesai99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkateshdesai99" height="30" width="40" /></a>
+<a href="in.linkedin.com/in/ameya-gidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in.linkedin.com/in/ameya-gidh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
