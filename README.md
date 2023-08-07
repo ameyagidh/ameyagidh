@@ -1,90 +1,77 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Venkatesh Desai</h1>
+<h3 align="justify">I'm passionate about the limitless potential of machine learning, deep learning, robotics and perception. Constantly exploring the boundaries of artificial intelligence to unravel new insights and solve complex problems. Committed to building intelligent systems that can perceive, understand, and interact with the world in unprecedented ways. Equipped with a solid foundation in cutting-edge algorithms and techniques, and a drive to push the boundaries of what is possible. Dedicated to sharing knowledge and collaborating with the community to drive innovation forward. Join me on this thrilling journey of discovery and transformation at the intersection of technology and intelligence. Together, let's shape the future through the power of machine learning and computer vision.</h3>
 
-<!--
-**ameyagidh/ameyagidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="CV" width="400" src="https://sgu.ac.id/wp-content/uploads/2020/12/1_QHxBLzMK7rp_5ysw77uK3A.gif">
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on Machine Learning and Computer Vision Projects.
+- 🤔 I’m looking for help with learning new stuff!
+- 💬 Ask me about anything you feel like!
+- 📫 Reach out to me at **venkateshdesai301@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/venkateshdesai99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/venkateshdesai99" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkydesai&show_icons=true&locale=en&layout=compact" alt="venkydesai" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkydesai&show_icons=true&locale=en" alt="venkydesai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkydesai&" alt="venkydesai" /></p> -->
 
 
+<!--## My Projects:-->
 
-#Ameya Santosh Gidh
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
+<h2 align = "center"> 🖥 Machine Learning Projects </h2>
 
-### Hi, my name is Ameya 👋 and I ❤️ Computer Science
+| [Credit Card Fraud Detection](https://github.com/venkydesai/credit-card-fraud-detection)| [Email/ SMS Spam Classification](https://github.com/venkydesai/email-spam-classification)|
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/credit_card.jpeg" width = 500 height = 300/>](https://github.com/venkydesai/credit-card-fraud-detection)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/Spam.jpg" width = 500 height = 300/>](https://github.com/venkydesai/email-spam-classification)
 
-**Field of interests**: AGI, NLP, RL, Graphs, Distributed Systems
+| [Can I be an Influencer?](https://github.com/venkydesai/Can-I-be-an-Influencer)| [Airbnb House price prediction](https://github.com/venkydesai/Airbnb-House-Price-Prediction)|
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Influ.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Can-I-be-an-Influencer)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/dataset-cover.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Airbnb-House-Price-Prediction)
 
-**My telegram channel**: 
+| [Heart Disease Prediction](https://github.com/venkydesai/heart_disease_prediction)||
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/heart_disease_prediction/blob/main/Heart_failure.jpg" width = 500 height = 300/>](https://github.com/venkydesai/heart_disease_prediction)| 
 
-<!-- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
+<h2 align = "center"> 🖥 Unsupervised Learning </h2>
 
-### Skills 🛠️
-- **Languages**:&nbsp;                         Python, SQL
-- **DS/ML/DL**:  &nbsp;&nbsp;                  SkLearn, PyTorch, Transformers
-- **Big Data**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hadoop, Hive, Spark
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker
+| [Movie Recommendation System](https://github.com/venkydesai/movie-recommendation-system)| [Book Recommendation System](https://github.com/venkydesai/book-reccomendation-system)|
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/movie-recommendation.jpg" width = 500 height = 300/>](https://github.com/venkydesai/movie-recommendation-system)| [<img src="https://github.com/venkydesai/Profile_images/blob/main/Images/book.jpg" width = 500 height = 300/>](https://github.com/venkydesai/book-reccomendation-system)
 
-### Work experience 👔
-| Job Position           | Company         | Field                         | Work Period       |
-| ---------------------- | --------------- | ----------------------------- | ----------------- |
-| **Research Scientist** | **SberDevices** | **AGI, LLM, RLHF, GigaChat**  | **2023-04 — now** |
-| NLP Team Lead          | SberDevices     | Search, Information Retrieval | 2022-10 — 2023-04 |
-| NLP Tech Lead          | Sber AI Lab     | NLP, MLOps, Mentoring         | 2021-05 — 2022-10 |
-| Senior NLP Engineer    | Tinkoff AI Lab  | Virtual Assistant "Oleg"      | 2021-02 — 2021-04 |
-| Middle NLP Engineer    | MTS AI Lab      | NER with Pseudo-Labeling      | 2020-05 — 2021-02 |
-| Junior Data Scientist  | Sberbank        | ML with Tabular Data, CV      | 2018-07 — 2020-05 |
+| [Customer Segmentation using K-Means Clustering](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [Variational Autoencoders](https://github.com/venkydesai/Variational-Autoencoders)|
+| :-:| :-:| 
+| [<img src = "https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering/blob/main/Customer%20Segmentation%20Using%20K-Means%20Clustering.png" width = 500 height = 300/>](https://github.com/venkydesai/Customer-Segmentation-Using-K-Means-Clustering)| [<img src = "https://github.com/venkydesai/Variational-Autoencoders/blob/main/VAE.png" width = 500 height = 300/>](https://github.com/venkydesai/Variational-Autoencoders)
 
-### Education 🎓
-- [Master’s Degree](https://github.com/dayyass/prior-knowledge-layer-for-sequence-tagging) @ Northeastern University (2021 - 2023)
-- [Bachelor's Degree](https://github.com/dayyass/bachelor-diploma) @ sardar Patel college of Engineering (Spce) (2017 - 2021)
+| [GAN's](https://github.com/venkydesai/GAN-s)| |
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/GAN-s/blob/main/Generative-Adversarial-Network.png" width = 500 height = 300/>](https://github.com/venkydesai/GAN-s)| 
 
-### Projects 🐾
-- [QaNER](https://github.com/dayyass/QaNER) - unofficial implementation of QaNER paper (NER via Extractive Question Answering)
-- [RLLib](https://github.com/dayyass/rllib) - Reinforcement Learning library
-- [MUSE as Service](https://github.com/dayyass/muse-as-service) - REST API for sentence embedding using Multilingual Universal Sentence Encoder
-- [PyTorch NER](https://github.com/dayyass/pytorch-ner) - pipeline for training NER models using PyTorch
-- [Text Classification Baseline](https://github.com/dayyass/text-classification-baseline) - pipeline for building text classification TF-IDF + LogReg baselines
-- [Graph-Based Clustering](https://github.com/dayyass/graph-based-clustering) - clustering using graph connected components and spanning trees
+<h2 align = "center"> 🖥 Natural Language Processing (NLP) Projects </h2>
 
-### Public talks 🗣
-- [From Model to Service: Flask + Gunicorn + Docker](https://youtu.be/onPlqEO0lN0) @ Sberloga
-- [QaNER - NER via Exractive QA](https://youtu.be/JRec8FpjhpM) @ Sberloga
-- [Git Hooks Is All You Need](https://youtu.be/92OMAtdVIAs) @ Sberloga
-- [Web-Service for Sentence Embeddings](https://youtu.be/ZayiaA84oXg) @ Sberloga
-- [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club
+| [Automated Essay Scoring with Transformers](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [ChatGPT*](https://github.com/venkydesai/chatgpt)|
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/automated_essay_scoring.jpg" width = 500 height = 300/>](https://github.com/suhasmaddali/English-Language-Learning-Prediction-with-AI-and-Machine-Learning)| [<img src = "https://github.com/venkydesai/chatgpt/blob/main/chatgpt.jpg" width = 500 height = 300/>](https://github.com/venkydesai/chatgpt)
 
-### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
 
-<!--- ### Conference participation 📈
-- IX International Scientific and Practical [Conference](https://it-mm.rea.ru/eng) named after A.I. Kitov "Information Technologies and Mathematical Methods in Economics and Management"
-- Deep and Machine Learning methods for document clustering and classification [tutorial](https://indico-hlit.jinr.ru/event/146/overview) in frames of The XXIII International Scientific [Conference](https://indico.jinr.ru/event/756) of Young Scientists and Specialists (AYSS-2019)  -->
+<h2 align = "center"> 📸 Computer Vision </h2>
 
-### Hackathon participation 💻
-- [deNews](https://ethglobal.com/showcase/denews-djqvk) @ ETHOnline 2022
-- [Alzheimer's MRI Analysis](https://github.com/dayyass/synthetic_health_data_hackathon_2020) @ Synthetic Health Data Hackathon 2020
+| [Scan Matching using Iterative Closest Point](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)| |
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/2.gif" width = 500 height = 300/>](https://github.com/venkydesai/Scan-matching-using-iterative-closest-point)|
 
-### Achievements 🏆
-- Published [10 packages](https://pypi.org/user/dayyass/) to **PyPI** with [25k+](https://pepy.tech) downloads
-- Contributor to **PyTorch**, **Scikit-Learn**, **SciPy**
-- Open Data Science **Best Contributor 2020**
+<h2 align = "center"> 🤖 Robotics </h2>
 
-### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dayyass&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+| [Autonomous Robot for Reconnaissance](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [State Estimation using Particle Filtering on a Lie group](https://github.com/venkydesai/state-estimation-using-particle-filter) 
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/Profile_images/blob/main/Images/Rescue_robot.jpg" width = 500 height = 300/>](https://github.com/venkydesai/Team-Splinter-Autonomous-Ground-Robot-For-Reconnaissance)| [<img src = "https://github.com/venkydesai/state-estimation-using-particle-filter/blob/main/3_g.png" width = 500 height = 300/>](https://github.com/venkydesai/state-estimation-using-particle-filter)
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/) 🚀
+| [Path Planning using A Star](https://github.com/venkydesai/A-star-path-planning)| [Path Planning using PRM](https://github.com/venkydesai/PRM-path-planning) 
+| :-:| :-:|
+| [<img src = "https://github.com/venkydesai/A-star-path-planning/blob/main/2_attach_2_b_3.png" width = 500 height = 300/>](https://github.com/venkydesai/A-star-path-planning)| [<img src = "https://github.com/venkydesai/PRM-path-planning/blob/main/PRM.gif" width = 400 height = 300/>](https://github.com/venkydesai/PRM-path-planning)
