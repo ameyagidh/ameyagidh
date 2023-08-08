@@ -7,7 +7,7 @@
 
 I'm passionate about __Machine Learning__ and __Data Science__. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data pushes the field of Data Science and Machine Learning to a whole new level.
 
-![](https://github.com/suhasmaddali/GIF-files/blob/main/Suhas%20maddali%20portfolio%20compressed.gif)
+
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
