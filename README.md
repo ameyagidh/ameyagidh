@@ -67,36 +67,37 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 
 <h2> 💼 Professional Experience 🚀</h2>
 
-**Software Engineer Co-op | Delsys** --
+**Software Engineer Co-op | Delsys**
 Natick, MA | Jan 2023 – Aug 2023
-- Expanded Discover software using C# and MVVM architecture
-- Developed modular Python UI/UX app for enhanced scalability
-- Programmed C++ software with Docker for seamless sensor integration
+- Expanded Discover software using C# and MVVM architecture.
+- Developed modular Python UI/UX app for enhanced scalability.
+- Programmed C++ software with Docker for seamless sensor integration.
 
-**Machine Learning Intern | Adagrad AI**--
+**Machine Learning Intern | Adagrad AI**
 Maharashtra, India | July 2020 - Sept 2020
-- Deployed CNN model on Microsoft Azure for melanoma prediction
-- Enhanced object detection model using OpenCV and YOLO
+- Deployed CNN model on Microsoft Azure for melanoma prediction.
+- Enhanced object detection model using OpenCV and YOLO.
 
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
 
-**Time Series Analysis with RNN**--
+**Time Series Analysis with RNN**
 Oct 2022 - Dec 2022
-- Trained Deep Learning models for 95% accurate stock price prediction
-- Developed REST API using Flask for user testing
+- Trained Deep Learning models achieving 95% accurate stock price prediction.
+- Developed REST API using Flask for user testing.
 
-**Movie Time**--
+**Movie Time**
 June 2022 - Aug 2022
-- Built MERN Stack movie streaming website with authentication and admin dashboard
+- Created a dynamic MERN Stack movie streaming website with user authentication and admin dashboard.
 
 <!-- Add more projects -->
 
-**Godzilla Finance**--
+**Godzilla Finance**
 May 2022 - June 2022
-- Designed Android expense tracker app using Java, Firebase, and Figma
-- Led team, conducted code reviews, utilized GitHub and Jira
+- Designed an intuitive Android expense tracker app using Java, Firebase, and Figma.
+- Led a team, conducted comprehensive code reviews, and managed project progress using GitHub and Jira.
+
 
 <h2>🏆 Achievements and Certifications 🌟</h2>
 
