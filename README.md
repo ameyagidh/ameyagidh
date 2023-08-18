@@ -1,28 +1,38 @@
 <h1 align="center"> Hi there, I'm Ameya Santosh Gidh 👋 </h1>
 
-I'm passionate about __Machine Learning__ and __Data Science__. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data pushes the field of Data Science and Machine Learning to a whole new level.
+<p align="center">
+    <em>Passionate about Machine Learning and Data Science</em>
+    <br>
+    <em>Believer in the potential of Artificial Intelligence across diverse domains</em>
+</p>
 
-<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
+<p align="center">
+    <a href="https://www.linkedin.com/in/ameya-gidh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+    <a href="https://github.com/ameyagidh"><img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=flat&logo=github"></a>
+</p>
 
-I hold a Masters Degree in Computer Science from [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). With over *2+ years* of experience, I've been actively involved in building and deploying machine learning and deep learning models. I've also successfully completed the Machine Learning Certification from [__Stanford University__](https://www.stanford.edu/) and the Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/).
+<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-My journey led me to work on diverse projects in industries like pharmaceutical, agricultural, retail, manufacturing, and automobile sectors. During this time, I've gained valuable experience from companies such as [__Delsys__], [__Adagrad AI__], [ ABP Systems and Solutions], and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/).
+I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 2+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models. I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).
 
-<h2>🪚🔧 My Skills 😀😀:</h2>
+My journey led me to diverse sectors including pharmaceuticals, agriculture, retail, manufacturing, and automobiles. I've gained invaluable insights from companies like Delsys, Adagrad AI, ABP Systems and Solutions, and also through my contributions at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
 
-Starting from my early days, I acquired coding skills through __C__ language. My continuous learning led me to Python, which significantly expanded my grasp of machine learning and data science. I've developed strong coding principles and proficiency in languages like __Python__. These skills form the foundation of my journey towards becoming a successful __Software Engineer_ and__Machine learning engineer__ .
+<h2>🪚🔧 My Skills 🛠️</h2>
 
-Here's a snapshot of my toolbox:
+My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Python__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__ and __Machine Learning Engineer__. My toolkit includes:
 
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  <!-- Add other badges here -->
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
+    <!-- Add other badges here -->
+</p>
 
-<h2> 💼 Professional Experience 🚀:</h2>
+<h2> 💼 Professional Experience 🚀</h2>
 
 **Software Engineer Co-op | Delsys**
 Natick, MA | Jan 2023 – Aug 2023
-- Expanded functionality of Discover software using C# and MVVM architecture
-- Developed modular Python UI/UX app for improved scalability
-- Programmed C++ software with Docker integration for seamless sensor integration
+- Expanded Discover software using C# and MVVM architecture
+- Developed modular Python UI/UX app for enhanced scalability
+- Programmed C++ software with Docker for seamless sensor integration
 
 **Machine Learning Intern | Adagrad AI**
 Maharashtra, India | July 2020 - Sept 2020
@@ -31,36 +41,36 @@ Maharashtra, India | July 2020 - Sept 2020
 
 <!-- Add other experiences here -->
 
-<h2>🔍 Notable Projects 🚀:</h2>
+<h2>🔍 Notable Projects 🚀</h2>
 
 **Time Series Analysis with RNN**
 Oct 2022 - Dec 2022
-- Trained Deep Learning models for stock price prediction with 95% accuracy
+- Trained Deep Learning models for 95% accurate stock price prediction
 - Developed REST API using Flask for user testing
 
 **Movie Time**
 June 2022 - Aug 2022
-- Built MERN Stack movie streaming website with React, Node.js, Express.js, MongoDB
-- Implemented user authentication and admin dashboard for analytics
-- 
+- Built MERN Stack movie streaming website with authentication and admin dashboard
+
+<!-- Add more projects -->
 
 **Godzilla Finance**
 May 2022 - June 2022
 - Designed Android expense tracker app using Java, Firebase, and Figma
-- Conducted comprehensive code reviews, led the team using GitHub and Jira
+- Led team, conducted code reviews, utilized GitHub and Jira
 
-<h2>🏆 Achievements and Certifications 🌟:</h2>
+<h2>🏆 Achievements and Certifications 🌟</h2>
 
 - Graduate Research Apprentice for enhancing KnitGIST programming language
 - Organized events for "Her Incredible Minds" nonprofit promoting women in STEM
 - Published a research paper on Electric Vehicle simulation
 
-<!-- Add more achievements and certifications if needed -->
+<h2>📬 Get in Touch 📧</h2>
 
-<h2>📬 Get in Touch 📧:</h2>
+Let's connect and collaborate! Feel free to reach out via:
 
 - LinkedIn: [Ameya Gidh](https://www.linkedin.com/in/ameya-gidh)
 - GitHub: [ameyagidh](https://github.com/ameyagidh)
 - Portfolio: [ameyagidh.netlify.app](https://ameyagidh.netlify.app/)
 
-Feel free to connect with me for collaborations, discussions, or just to say hi! 🌐
+Looking forward to connecting and sharing ideas! 🌐
