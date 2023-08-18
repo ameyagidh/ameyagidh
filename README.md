@@ -1,24 +1,66 @@
-
- 
- <h1 align = "center">
-  Hi there, I'm Ameya Santosh Gidh 👋</h1>
+<h1 align="center"> Hi there, I'm Ameya Santosh Gidh 👋 </h1>
 
 I'm passionate about __Machine Learning__ and __Data Science__. With the development of technology, I believe that there is a huge potential for Artificial Intelligence in different domains. The rapid rate at which there is advancement in computing power and the freedom to take a large amount of data pushes the field of Data Science and Machine Learning to a whole new level.
 
-
-
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I hold a Masters Degree in Computer Science at [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). I have *2+ years* of experience building and deploying machine learning and deep learning models. Furthermore, I completed courses such as Machine Learning Certification by [__Stanford University__](https://www.stanford.edu/) and Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/). 
+I hold a Masters Degree in Computer Science from [__Northeastern University - Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/). With over *2+ years* of experience, I've been actively involved in building and deploying machine learning and deep learning models. I've also successfully completed the Machine Learning Certification from [__Stanford University__](https://www.stanford.edu/) and the Deep Learning Specialization by [__Andrew Ng__](https://www.andrewng.org/).
 
-These courses were influential in my theoretical understanding of machine learning, deep learning, and data science. Later, I began to work on projects ranging from pharmaceutical, agricultural, retail, manufacturing and automobile industries. 
-
-I worked at companies such as [__Delsys__], [__Adagrad AI__], [ ABP Systems and Solutions] and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/) 
+My journey led me to work on diverse projects in industries like pharmaceutical, agricultural, retail, manufacturing, and automobile sectors. During this time, I've gained valuable experience from companies such as [__Delsys__], [__Adagrad AI__], [ ABP Systems and Solutions], and [__Khoury College of Computer Sciences__](https://www.khoury.northeastern.edu/).
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-Starting at a young age, I acquired coding skills by initially learning the __C__ language. Currently, I am expanding my knowledge by studying Python, which enhances my comprehension of machine learning and data science. Consequently, I have developed a strong grasp of coding principles. Additionally, I have furthered my expertise by gaining proficiency in other programming languages, including __R__, which are essential for pursuing a career as a __machine learning engineer__ or a __data scientist__.
+Starting from my early days, I acquired coding skills through __C__ language. My continuous learning led me to Python, which significantly expanded my grasp of machine learning and data science. I've developed strong coding principles and proficiency in languages like __R__. These skills form the foundation of my journey towards becoming a successful __machine learning engineer__ and __data scientist__.
 
-Throughout my experience in the field of data science and machine learning, I have acquired a comprehensive set of skills. These valuable tools and techniques have empowered me to successfully develop and comprehend intricate machine learning projects.
+Here's a snapshot of my toolbox:
 
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)   [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org) [<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>](https://www.mongodb.com/) [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org) [![](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org) [![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html) [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com) [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com) [![](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/) [![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com) [<img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width = "100" height = "27.5"/>](https://www.sqlite.org/index.html)[![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org) [![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/) [![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint) [![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  <!-- Add other badges here -->
+
+<h2> 💼 Professional Experience 🚀:</h2>
+
+**Software Engineer Co-op | Delsys**
+Natick, MA | Jan 2023 – Aug 2023
+- Expanded functionality of Discover software using C# and MVVM architecture
+- Developed modular Python UI/UX app for improved scalability
+- Programmed C++ software with Docker integration for seamless sensor integration
+
+**Machine Learning Intern | Adagrad AI**
+Maharashtra, India | July 2020 - Sept 2020
+- Deployed CNN model on Microsoft Azure for melanoma prediction
+- Enhanced object detection model using OpenCV and YOLO
+
+<!-- Add other experiences here -->
+
+<h2>🔍 Notable Projects 🚀:</h2>
+
+**Time Series Analysis with RNN**
+Oct 2022 - Dec 2022
+- Trained Deep Learning models for stock price prediction with 95% accuracy
+- Developed REST API using Flask for user testing
+
+**Movie Time**
+June 2022 - Aug 2022
+- Built MERN Stack movie streaming website with React, Node.js, Express.js, MongoDB
+- Implemented user authentication and admin dashboard for analytics
+- 
+
+**Godzilla Finance**
+May 2022 - June 2022
+- Designed Android expense tracker app using Java, Firebase, and Figma
+- Conducted comprehensive code reviews, led the team using GitHub and Jira
+
+<h2>🏆 Achievements and Certifications 🌟:</h2>
+
+- Graduate Research Apprentice for enhancing KnitGIST programming language
+- Organized events for "Her Incredible Minds" nonprofit promoting women in STEM
+- Published a research paper on Electric Vehicle simulation
+
+<!-- Add more achievements and certifications if needed -->
+
+<h2>📬 Get in Touch 📧:</h2>
+
+- LinkedIn: [Ameya Gidh](https://www.linkedin.com/in/ameya-gidh)
+- GitHub: [ameyagidh](https://github.com/ameyagidh)
+- Portfolio: [ameyagidh.netlify.app](https://ameyagidh.netlify.app/)
+
+Feel free to connect with me for collaborations, discussions, or just to say hi! 🌐
