@@ -31,6 +31,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -38,6 +39,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/NLTK-41AB5D?style=for-the-badge&logo=nltk&logoColor=white">
 </p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
@@ -45,18 +47,23 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 </p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
+<p align="center">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
+
 <p align="center">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
@@ -67,17 +74,16 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 </p>
 
 
-
 <h2> 💼 Professional Experience 🚀</h2>
 
-**Software Engineer Co-op | Delsys**
+**Software Engineer Co-op | Delsys** --
 Natick, MA | Jan 2023 – Aug 2023
 - Expanded Discover software using C# and MVVM architecture
 - Developed modular Python UI/UX app for enhanced scalability
 - Programmed C++ software with Docker for seamless sensor integration
 
-**Machine Learning Intern | Adagrad AI**
-                                            Maharashtra, India | July 2020 - Sept 2020
+**Machine Learning Intern | Adagrad AI**--
+Maharashtra, India | July 2020 - Sept 2020
 - Deployed CNN model on Microsoft Azure for melanoma prediction
 - Enhanced object detection model using OpenCV and YOLO
 
@@ -85,18 +91,18 @@ Natick, MA | Jan 2023 – Aug 2023
 
 <h2>🔍 Notable Projects 🚀</h2>
 
-**Time Series Analysis with RNN**
+**Time Series Analysis with RNN**--
 Oct 2022 - Dec 2022
 - Trained Deep Learning models for 95% accurate stock price prediction
 - Developed REST API using Flask for user testing
 
-**Movie Time**
+**Movie Time**--
 June 2022 - Aug 2022
 - Built MERN Stack movie streaming website with authentication and admin dashboard
 
 <!-- Add more projects -->
 
-**Godzilla Finance**
+**Godzilla Finance**--
 May 2022 - June 2022
 - Designed Android expense tracker app using Java, Firebase, and Figma
 - Led team, conducted code reviews, utilized GitHub and Jira
