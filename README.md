@@ -60,44 +60,61 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> 
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> 
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
 
 <h2> 💼 Professional Experience 🚀</h2>
 
-**Software Engineer Co-op | Delsys**
-Natick, MA | Jan 2023 – Aug 2023
-- Expanded Discover software using C# and MVVM architecture.
-- Developed modular Python UI/UX app for enhanced scalability.
-- Programmed C++ software with Docker for seamless sensor integration.
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Software Engineer Co-op | Delsys</h3>
+    <p>Natick, MA | Jan 2023 – Aug 2023</p>
+    <ul>
+        <li>Expanded Discover software using C# and MVVM architecture.</li>
+        <li>Developed modular Python UI/UX app for enhanced scalability.</li>
+        <li>Programmed C++ software with Docker for seamless sensor integration.</li>
+    </ul>
+</div>
 
-**Machine Learning Intern | Adagrad AI**
-Maharashtra, India | July 2020 - Sept 2020
-- Deployed CNN model on Microsoft Azure for melanoma prediction.
-- Enhanced object detection model using OpenCV and YOLO.
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Machine Learning Intern | Adagrad AI</h3>
+    <p>Maharashtra, India | July 2020 - Sept 2020</p>
+    <ul>
+        <li>Deployed CNN model on Microsoft Azure for melanoma prediction.</li>
+        <li>Enhanced object detection model using OpenCV and YOLO.</li>
+    </ul>
+</div>
 
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
 
-**Time Series Analysis with RNN**
-Oct 2022 - Dec 2022
-- Trained Deep Learning models achieving 95% accurate stock price prediction.
-- Developed REST API using Flask for user testing.
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Time Series Analysis with RNN</h3>
+    <p>Oct 2022 - Dec 2022</p>
+    <ul>
+        <li>Trained Deep Learning models achieving 95% accurate stock price prediction.</li>
+        <li>Developed REST API using Flask for user testing.</li>
+    </ul>
+</div>
 
-**Movie Time**
-June 2022 - Aug 2022
-- Created a dynamic MERN Stack movie streaming website with user authentication and admin dashboard.
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Movie Time</h3>
+    <p>June 2022 - Aug 2022</p>
+    <ul>
+        <li>Created a dynamic MERN Stack movie streaming website with user authentication and admin dashboard.</li>
+    </ul>
+</div>
 
 <!-- Add more projects -->
 
-**Godzilla Finance**
-May 2022 - June 2022
-- Designed an intuitive Android expense tracker app using Java, Firebase, and Figma.
-- Led a team, conducted comprehensive code reviews, and managed project progress using GitHub and Jira.
-
+<div style="border-left: 2px solid #3498db; padding-left: 10px;">
+    <h3>Godzilla Finance</h3>
+    <p>May 2022 - June 2022</p>
+    <ul>
+        <li>Designed an intuitive Android expense tracker app using Java, Firebase, and Figma.</li>
+        <li>Led a team, conducted comprehensive code reviews, and managed project progress using GitHub and Jira.</li>
+    </ul>
+</div>
 
 <h2>🏆 Achievements and Certifications 🌟</h2>
 
