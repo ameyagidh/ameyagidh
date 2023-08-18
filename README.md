@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Ameya Santosh Gidh 👋 </h1>
 
 <p align="center">
-    <em>Passionate about Machine Learning and Data Science</em>
+    <em>Passionate about Software Engineering and Machine Learning </em>
     <br>
     <em>Believer in the potential of Artificial Intelligence across diverse domains</em>
 </p>
@@ -13,7 +13,9 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 2+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models. I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).
+I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 2+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models.
+
+<!--I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).-->
 
 My journey led me to diverse sectors including pharmaceuticals, agriculture, retail, manufacturing, and automobiles. I've gained invaluable insights from companies like Delsys, Adagrad AI, ABP Systems and Solutions, and also through my contributions at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
 
