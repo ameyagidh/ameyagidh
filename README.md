@@ -17,11 +17,11 @@ I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern Unive
 
 <!--I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).-->
 
-My journey led me to diverse sectors including pharmaceuticals, agriculture, retail, manufacturing, and automobiles. I've gained invaluable insights from companies like Delsys, Adagrad AI, ABP Systems and Solutions, and also through my contributions at [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
+My journey led me to diverse sectors including Electromyography (EMG), Health Care, ECommerce, Finance, and automobiles. I've gained invaluable insights from companies like Delsys, Adagrad AI, ABP Systems and Solutions.
 
 <h2>🪚🔧 My Skills 🛠️</h2>
 
-My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Python__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__ and __Machine Learning Engineer__. My toolkit includes:
+My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Java__,__C++__,__Java Script__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__ , __Full Stack Developer__ and __Machine Learning Engineer__. My toolkit includes:
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
