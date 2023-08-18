@@ -10,7 +10,7 @@ My journey led me to work on diverse projects in industries like pharmaceutical,
 
 <h2>🪚🔧 My Skills 😀😀:</h2>
 
-Starting from my early days, I acquired coding skills through __C__ language. My continuous learning led me to Python, which significantly expanded my grasp of machine learning and data science. I've developed strong coding principles and proficiency in languages like __R__. These skills form the foundation of my journey towards becoming a successful __machine learning engineer__ and __data scientist__.
+Starting from my early days, I acquired coding skills through __C__ language. My continuous learning led me to Python, which significantly expanded my grasp of machine learning and data science. I've developed strong coding principles and proficiency in languages like __Python__. These skills form the foundation of my journey towards becoming a successful __Software Engineer_ and__Machine learning engineer__ .
 
 Here's a snapshot of my toolbox:
 
