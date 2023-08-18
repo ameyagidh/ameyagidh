@@ -9,9 +9,13 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ameya-gidh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
     <a href="https://github.com/ameyagidh"><img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=flat&logo=github"></a>
-<a href="https://ameyagidh.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat"></a>
-
-    <a href="mailto:ameyagidh2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat"></a>
+    <a href="https://ameyagidh.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="mailto:ameyagidh2@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white">
+    </a>
 </p>
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
