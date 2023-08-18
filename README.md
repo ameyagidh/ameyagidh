@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Ameya Santosh Gidh 👋 </h1>
 
 <p align="center">
-    <em>Passionate about Software Engineering and Machine Learning </em>
+    <em>Passionate about Software Engineering, FUll Stack Development and Machine Learning </em>
     <br>
     <em>Believer in the potential of Artificial Intelligence across diverse domains</em>
 </p>
