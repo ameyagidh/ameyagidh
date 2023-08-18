@@ -21,7 +21,7 @@ My journey led me to diverse sectors including Electromyography (EMG), Health Ca
 
 <h2>🪚🔧 My Skills 🛠️</h2>
 
-My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Java__,__C++__,__JavaScript__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__ , __Full Stack Developer__ and __Machine Learning Engineer__. My toolkit includes:
+My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Java__, __C++__, and __JavaScript__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__, __Full Stack Developer__, and __Machine Learning Engineer__. My toolkit includes:
 
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
@@ -30,16 +30,22 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/NLTK-41AB5D?style=for-the-badge&logo=nltk&logoColor=white">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
@@ -50,6 +56,8 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -57,6 +65,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
     <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
 </p>
+
 
 
 <h2> 💼 Professional Experience 🚀</h2>
@@ -68,7 +77,7 @@ Natick, MA | Jan 2023 – Aug 2023
 - Programmed C++ software with Docker for seamless sensor integration
 
 **Machine Learning Intern | Adagrad AI**
-Maharashtra, India | July 2020 - Sept 2020
+                                            Maharashtra, India | July 2020 - Sept 2020
 - Deployed CNN model on Microsoft Azure for melanoma prediction
 - Enhanced object detection model using OpenCV and YOLO
 
