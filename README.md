@@ -63,7 +63,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"> 
 </p>
 
-<h2> 💼 Professional Experience 🚀</h2>
+<h2> 💼 Professional Experience 💼 </h2>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
     <h3>Software Engineer Co-op | Delsys</h3>
