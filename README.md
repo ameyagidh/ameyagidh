@@ -83,13 +83,29 @@ My coding journey began with __C__ language, and from there, I've evolved into a
         <li>Enhanced object detection model using OpenCV and YOLO.</li>
     </ul>
 </div>
-
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Java Software Engineering Intern | ABP Systems and Solutions</h3>
+    <p>Maharashtra, India | Nov 2019 – May 2020</p>
+    <ul>
+        <li>Optimized MySQL database of Java Spring MVC Payroll Management System, enhancing query speed by 7%.</li>
+        <li>Collaborated with a team of 20 to perform comprehensive black-box testing, ensuring code robustness and integrity.</li>
+        <li>Developed a Java Spring Boot e-commerce website following a microservices architecture.</li>
+        <li>Integrated Apache Kafka pipeline for data streaming, resulting in a 15% reduction in API response time.</li>
+    </ul>
+</div>
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
-
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Time Series Analysis with RNN</h3>
+    <h3>Smart Race Rivals</h3>
+    <p>July 2022 - Aug 2022</p>
+    <ul>
+        <li>Developed a cutting-edge Multiplayer autonomous racing car game using Unity and C#.</li>
+        <li>Enhanced gameplay by adding AI-driven NPC behavior using an optimized min-max algorithm.</li>
+    </ul>
+</div>
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Stock Price Predictor</h3>
     <p>Oct 2022 - Dec 2022</p>
     <ul>
         <li>Trained Deep Learning models achieving 95% accurate stock price prediction.</li>
