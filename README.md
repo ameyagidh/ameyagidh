@@ -134,7 +134,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 
 <h2>🏆 Achievements and Certifications 🌟</h2>
 
-- Graduate Research Apprentice for enhancing KnitGIST programming language
 - Organized events for "Her Incredible Minds" nonprofit promoting women in STEM
 - Published a research paper on Electric Vehicle simulation
 
