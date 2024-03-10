@@ -69,9 +69,13 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <h3>Software Engineer Co-op | Delsys</h3>
     <p>Natick, MA | Jan 2023 – Aug 2023</p>
     <ul>
-        <li>Expanded Discover software using C# and MVVM architecture.</li>
-        <li>Developed modular Python UI/UX app for enhanced scalability.</li>
-        <li>Programmed C++ software with Docker for seamless sensor integration.</li>
+        <li>Achieved a remarkable 320ms runtime reduction aiding real-time data transfer for next-gen Delsys products </li>
+        <li>Integrated new features into Delsys software using C#, MVVM architecture reducing support queries by 7%  </li>
+     <li>Innovated a portable solution to automate data exchange between the API and 20+ products in the ecosystem  </li>
+     <li>Streamlined workflow for Python Firmware Software by identifying and executing software improvements </li>
+      <li> Collaborated with multiple internal teams to develop a C++ SDK, boosting team productivity and efficiency </li>
+![image](https://github.com/ameyagidh/ameyagidh/assets/65457905/ec105b0b-d8b8-475a-8e14-075bef35a090)
+
     </ul>
 </div>
 
