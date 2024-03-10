@@ -18,8 +18,6 @@
     </a>
 </p>
 
-https://public.tableau.com/app/profile/ameya.santosh.gidh
-
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
 I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 2+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models.
@@ -182,5 +180,6 @@ Let's connect and collaborate! Feel free to reach out via:
 - LinkedIn: [Ameya Gidh](https://www.linkedin.com/in/ameya-gidh)
 - GitHub: [ameyagidh](https://github.com/ameyagidh)
 - Portfolio: [ameyagidh.netlify.app](https://ameyagidh.netlify.app/)
+- Tableau: [ameya.santosh.gidh](https://public.tableau.com/app/profile/ameya.santosh.gidh)
 
 Looking forward to connecting and sharing ideas! 🌐
