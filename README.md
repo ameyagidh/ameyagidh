@@ -52,7 +52,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> 
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -74,8 +74,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
      <li>Innovated a portable solution to automate data exchange between the API and 20+ products in the ecosystem  </li>
      <li>Streamlined workflow for Python Firmware Software by identifying and executing software improvements </li>
       <li> Collaborated with multiple internal teams to develop a C++ SDK, boosting team productivity and efficiency </li>
-![image](https://github.com/ameyagidh/ameyagidh/assets/65457905/ec105b0b-d8b8-475a-8e14-075bef35a090)
-
     </ul>
 </div>
 
