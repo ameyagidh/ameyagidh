@@ -66,35 +66,59 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 <h2> 💼 Professional Experience 💼 </h2>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Engineer Co-op | Delsys</h3>
-    <p>Natick, MA | Jan 2023 – Aug 2023</p>
+    <h3>Research Apprentice (Python Developer) | Northeastern University</h3>
+    <p>Massachusetts, USA | Sept 2023 – Dec 2023</p>
     <ul>
-        <li>Achieved a remarkable 320ms runtime reduction aiding real-time data transfer for next-gen Delsys products </li>
-        <li>Integrated new features into Delsys software using C#, MVVM architecture reducing support queries by 7%  </li>
-     <li>Innovated a portable solution to automate data exchange between the API and 20+ products in the ecosystem  </li>
-     <li>Streamlined workflow for Python Firmware Software by identifying and executing software improvements </li>
-      <li> Collaborated with multiple internal teams to develop a C++ SDK, boosting team productivity and efficiency </li>
+        <li>Revitalized the open-source Python library named knit-script by incorporating a machine state diagram to fulfill end-user requirements for enhanced product visualization during the manufacturing phase</li>
+        <li>Spearheaded development process by adhering to CI/CD practices, achieving 50% reduction in testing time</li>
+        <li>Led pivotal enhancements of the library by revamping the codebase using object-oriented programming</li>
     </ul>
 </div>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Machine Learning Intern | Adagrad AI</h3>
+    <h3>Software Engineer Co-op | Delsys</h3>
+    <p>Massachusetts, USA | Jan 2023 – Aug 2023</p>
+    <ul>
+        <li>Achieved a remarkable 320ms runtime reduction aiding real-time data transfer for next-gen Delsys products</li>
+        <li>Integrated new features into Delsys software using C#, MVVM architecture reducing support queries by 7%</li>
+        <li>Innovated a portable solution to automate data exchange between the API and 20+ products in the ecosystem</li>
+        <li>Streamlined workflow for Python Firmware Software by identifying and executing software improvements</li>
+        <li>Collaborated with multiple internal teams to develop a C++ SDK, boosting team productivity and efficiency</li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Software Engineer | ABP Systems and Solutions</h3>
+    <p>Maharashtra, India | Oct 2020 – Sept 2021</p>
+    <ul>
+        <li>Engineered backend for an ecommerce supply chain management system utilizing microservice architecture, using Java, Spring Boot, MySQL, Apache Kafka, Docker, and AWS for a resilient and scalable solution</li>
+        <li>Performed extensive Exploratory Data Analysis, Data Wrangling on large datasets from multiple sources using Python to analyze patterns and trends to feed into factory simulation model</li>
+        <li>Identified and handled outliers from raw data by extracting and visualizing the data distributions and statistical measures, increasing data quality by 12%, influencing product strategy for upcoming fiscal year</li>
+        <li>Introduced new services and APIs to scale operations from 4 to 9 warehouses, increasing B2B orders by 20%</li>
+        <li>Aligned novel functionalities with client expectations, influencing product strategy for upcoming fiscal year</li>
+        <li>Executed performance analysis, unraveling bottlenecks, and propelling an 11% surge in API responsiveness</li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Software and Machine Learning Intern | Adagrad AI</h3>
     <p>Maharashtra, India | July 2020 - Sept 2020</p>
     <ul>
-        <li>Deployed CNN model on Microsoft Azure for melanoma prediction.</li>
-        <li>Enhanced object detection model using OpenCV and YOLO.</li>
+        <li>Assisted in the implementation of MLOps practices for DNN models, using Jenkins CI/CD pipeline, Docker, AWS (SageMaker, EC2, S3), GitHub to enhance application scalability to meet high-performance standards</li>
+        <li>Implemented an AI chatbot for delivering 24/7 assistance, resulting in over 1000 unique visitors per month</li>
+        <li>Elevated data-driven decision-making through successful research, implementation, and evaluation of diverse ML models, enhancing analytical insights for making business strategies for the upcoming fiscal year</li>
     </ul>
 </div>
+
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Java Software Engineering Intern | ABP Systems and Solutions</h3>
+    <h3>Software Developer Intern | ABP Systems and Solutions</h3>
     <p>Maharashtra, India | Nov 2019 – May 2020</p>
     <ul>
-        <li>Optimized MySQL database of Java Spring MVC Payroll Management System, enhancing query speed by 7%.</li>
-        <li>Collaborated with a team of 20 to perform comprehensive black-box testing, ensuring code robustness and integrity.</li>
-        <li>Developed a Java Spring Boot e-commerce website following a microservices architecture.</li>
-        <li>Integrated Apache Kafka pipeline for data streaming, resulting in a 15% reduction in API response time.</li>
+        <li>Collaborated with a 10-member team to develop cutting-edge software solutions, automated deployment processes, and improved external integrations thus resulting in a 30% reduction in DevOps costs</li>
+        <li>Added monitoring and management of client instances HQ portal, enabling global support for 40+ users</li>
     </ul>
 </div>
+
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
