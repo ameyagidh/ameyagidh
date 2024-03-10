@@ -99,38 +99,74 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 
 <h2>🔍 Notable Projects 🚀</h2>
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Smart Race Rivals</h3>
-    <p>July 2022 - Aug 2022</p>
+    <h3>Distributed Messenger</h3>
     <ul>
-        <li>Developed a cutting-edge Multiplayer autonomous racing car game using Unity and C#.</li>
-        <li>Enhanced gameplay by adding AI-driven NPC behavior using an optimized min-max algorithm.</li>
-    </ul>
-</div>
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Stock Price Predictor</h3>
-    <p>Oct 2022 - Dec 2022</p>
-    <ul>
-        <li>Trained Deep Learning models achieving 95% accurate stock price prediction.</li>
-        <li>Developed REST API using Flask for user testing.</li>
+        <li>Peer-to-peer chat system facilitating real-time communication among users. Features message sending, file sharing, and group chat.</li>
+        <li><a href="https://github.com/ameyagidh/DistributedMessanger">GitHub Link</a></li>
     </ul>
 </div>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Movie Time</h3>
-    <p>June 2022 - Aug 2022</p>
+    <h3>Cloud Native DevOps Project</h3>
     <ul>
-        <li>Created a dynamic MERN Stack movie streaming website with user authentication and admin dashboard.</li>
+        <li>Spring Boot web app with automated CI/CD and AMI creation via HCL Packer. Uses CloudFormation templates for infrastructure setup and AWS Lambda for serverless components.</li>
+        <li><a href="https://github.com/ameyagidh/CloudProject">GitHub Link</a></li>
     </ul>
 </div>
 
-<!-- Add more projects -->
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px;">
-    <h3>Godzilla Finance</h3>
-    <p>May 2022 - June 2022</p>
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Image Processing Software</h3>
     <ul>
-        <li>Designed an intuitive Android expense tracker app using Java, Firebase, and Figma.</li>
-        <li>Led a team, conducted comprehensive code reviews, and managed project progress using GitHub and Jira.</li>
+        <li>Java-based Image Manipulation App allowing easy image manipulation with features like loading, saving, and various processing techniques.</li>
+        <li><a href="https://github.com/ameyagidh/ImageProcessingSoftware">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>My Piggy Bank Mobile Application</h3>
+    <ul>
+        <li>A Java and Firebase mobile app with user authentication, expense tracking, analytics with intuitive charts for visualization and providing insights.</li>
+        <li><a href="https://github.com/ameyagidh/MyPiggyBank">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Company Sales Forecasting</h3>
+    <ul>
+        <li>Project predicts sales using SARIMA model after EDA. SARIMA manages trend and seasonal data effectively, enhancing time series forecasting accuracy.</li>
+        <li><a href="https://github.com/ameyagidh/CompanySalesForecasting">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Human Mental Health Analysis</h3>
+    <ul>
+        <li>LSTM-based model classifies Reddit mental health posts by severity. Achieves X% accuracy. Requires Python, TensorFlow, Keras, Gensim, NLTK, Pandas, NumPy.</li>
+        <li><a href="https://github.com/ameyagidh/HumanMentalHealthAnalysis">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Question Answering Bot</h3>
+    <ul>
+        <li>LSTM-QA-SQuAD2.0 utilizes SQuAD 2.0 data for a robust Question Answering system. Features LSTM Seq2Seq model with attention mechanisms and Tkinter GUI.</li>
+        <li><a href="https://github.com/ameyagidh/QuestionAnsweringBot">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>Linux Shell</h3>
+    <ul>
+        <li>Mini Shell in C similar to popular shells like Bash. This project acts as a gateway between users and the OS, executing diverse commands.</li>
+        <li><a href="https://github.com/ameyagidh/Linux-Shell">GitHub Link</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
+    <h3>AirBNB Tableau</h3>
+    <ul>
+        <li>Airbnb rental market using Tableau, analyzing rental trends, pricing dynamics, and property types and interactive dashboard creation.</li>
+        <li><a href="https://github.com/ameyagidh/AirBNBTableauVisualization">GitHub Link</a></li>
     </ul>
 </div>
 
