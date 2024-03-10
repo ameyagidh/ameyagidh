@@ -3,7 +3,7 @@
 <p align="center">
     <em>Passionate about Software Development, Full Stack Development and Machine Learning </em>
     <br>
-    <em>Believer in the potential of Artificial Intelligence across diverse domains</em>
+    <em>Believer in the potential of Data Science Artificial Intelligence across diverse domains</em>
 </p>
 
 <p align="center">
