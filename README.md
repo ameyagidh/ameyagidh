@@ -20,7 +20,7 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 2+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models.
+I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 3+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models.
 
 <!--I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).-->
 
