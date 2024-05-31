@@ -20,11 +20,14 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-I'm Ameya, holding a Masters Degree in Computer Science from [Northeastern University - Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). With over 3+ years of hands-on experience, I've been deeply involved in developing and deploying advanced machine learning and deep learning models.
-
-<!--I'm proud to have completed the Machine Learning Certification from [Stanford University](https://www.stanford.edu/) and the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/).-->
-
-My journey led me to diverse sectors including Electromyography (EMG), Health Care, ECommerce, Finance, and automobiles. I've gained invaluable insights from companies like Delsys, Adagrad AI, ABP Systems and Solutions.
+• Software Developer with 4 years of hands-on experience in designing, developing, and deploying enterprise-level applications and software solutions across diverse industries.
+• Proficient in Python, with expertise in building web applications, RESTful web services, and microservices, Django, Flask, and ORM frameworks.
+• Skilled in front-end development using ReactJS, AngularJS, HTML5, CSS3, and JavaScript, focusing on creating dynamic and responsive user interfaces to enhance user experience.
+• Proficient in database management systems including MySQL, MS SQL, MongoDB, and DynamoDB, with expertise in designing and optimizing database schemas, writing complex queries, and implementing CRUD operations.
+• Skilled in cloud technologies and services such as AWS SQS, SNS, Lambda, S3, and Elastic Beanstalk, with hands-on experience in deploying serverless functions and scalable applications on AWS cloud infrastructure.
+• Strong understanding of Agile methodologies, including Scrum and SDLC, with a proven track record of collaborating effectively with cross-functional teams to deliver high-quality software solutions within tight deadlines.
+• Proficient in version control using Git, with experience in utilizing CI/CD tools like Jenkins for automated builds and deployments, ensuring continuous integration and delivery of code changes.
+• Excellent problem-solving and troubleshooting skills, coupled with effective communication and teamwork abilities, to drive innovation, resolve technical challenges, and deliver value-driven solutions aligned with business objectives.
 
 <h2>🪚🔧 My Skills 🛠️</h2>
 
