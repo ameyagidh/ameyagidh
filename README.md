@@ -21,12 +21,19 @@
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
 • Software Developer with 4 years of hands-on experience in designing, developing, and deploying enterprise-level applications and software solutions across diverse industries.
+
 • Proficient in Python, with expertise in building web applications, RESTful web services, and microservices, Django, Flask, and ORM frameworks.
+
 • Skilled in front-end development using ReactJS, AngularJS, HTML5, CSS3, and JavaScript, focusing on creating dynamic and responsive user interfaces to enhance user experience.
+
 • Proficient in database management systems including MySQL, MS SQL, MongoDB, and DynamoDB, with expertise in designing and optimizing database schemas, writing complex queries, and implementing CRUD operations.
+
 • Skilled in cloud technologies and services such as AWS SQS, SNS, Lambda, S3, and Elastic Beanstalk, with hands-on experience in deploying serverless functions and scalable applications on AWS cloud infrastructure.
+
 • Strong understanding of Agile methodologies, including Scrum and SDLC, with a proven track record of collaborating effectively with cross-functional teams to deliver high-quality software solutions within tight deadlines.
+
 • Proficient in version control using Git, with experience in utilizing CI/CD tools like Jenkins for automated builds and deployments, ensuring continuous integration and delivery of code changes.
+
 • Excellent problem-solving and troubleshooting skills, coupled with effective communication and teamwork abilities, to drive innovation, resolve technical challenges, and deliver value-driven solutions aligned with business objectives.
 
 <h2>🪚🔧 My Skills 🛠️</h2>
