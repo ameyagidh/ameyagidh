@@ -42,7 +42,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 
 <h2>🔧 My Skills 🔧</h2>
 
-<h3>Front-End Technologies</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -55,10 +54,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     <img src="https://img.shields.io/badge/Angular%20JS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
-</p>
-
-<h3>Back-End Technologies</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -74,67 +69,33 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-</p>
-
-<h3>Methodology</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Waterfall-007ACC?style=for-the-badge&logo=waterfall&logoColor=white">
     <img src="https://img.shields.io/badge/Agile%20Scrum-0096D5?style=for-the-badge&logo=agile&logoColor=white">
     <img src="https://img.shields.io/badge/Kanban-0096D5?style=for-the-badge&logo=kanban&logoColor=white">
-</p>
-
-<h3>IDEs</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
     <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-</p>
-
-<h3>Web Services</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/RESTful-000000?style=for-the-badge&logo=rest&logoColor=white">
     <img src="https://img.shields.io/badge/SOAP-239120?style=for-the-badge&logo=soap&logoColor=white">
-</p>
-
-<h3>Databases</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-</p>
-
-<h3>CI/CD & Tools</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/Code%20Ship-000000?style=for-the-badge&logo=codeship&logoColor=white">
-</p>
-
-<h3>Testing Tools</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Mockito-FF6200?style=for-the-badge&logo=mockito&logoColor=white">
     <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white">
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-</p>
-
-<h3>Cloud & Deployment</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>
-
-<h3>Web Server</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
     <img src="https://img.shields.io/badge/WebLogic-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-</p>
 
 <h3>Other Technical Skills</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white">
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
@@ -144,10 +105,7 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
 <h3>Operating Systems</h3>
-<p align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Mac%20OS-000000?style=for-the-badge&logo=apple&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
