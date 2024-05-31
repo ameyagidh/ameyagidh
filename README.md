@@ -66,56 +66,28 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 <h2> 💼 Professional Experience 💼 </h2>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Research Apprentice (Python Developer) | Northeastern University</h3>
-    <p>Massachusetts, USA | Sept 2023 – Dec 2023</p>
+    <h3>Software Developer | PayPal, MA</h3>
+    <p>Jul 2022 – Current</p>
     <ul>
-        <li>Revitalized the open-source Python library named knit-script by incorporating a machine state diagram to fulfill end-user requirements for enhanced product visualization during the manufacturing phase</li>
-        <li>Spearheaded development process by adhering to CI/CD practices, achieving 50% reduction in testing time</li>
-        <li>Led pivotal enhancements of the library by revamping the codebase using object-oriented programming</li>
+        <li>Engaged in overseeing the complete software development life cycle (SDLC) leveraging Unified Modeling Language (UML), which involved requirement gathering, conceptual design, analysis, detailed design, and development phases.</li>
+        <li>Implemented template-driven forms in Angular to handle user input and form submissions, ensuring a streamlined user experience for data entry and validation.</li>
+        <li>Implemented RESTful APIs using Python and its frameworks to enable communication between the frontend and backend components of the application. Utilized endpoints to perform CRUD (Create, Read, Update, Delete) operations on financial data stored in the backend database.</li>
+        <li>Integrated Amazon CloudFront, to cache and deliver static assets and dynamic content to users with low latency and high transfer speeds, enhancing the performance of the financial application.</li>
+        <li>Utilized PostgreSQL for storing and managing financial data, transactions, user information, and application metadata.</li>
+        <li>Deployed Apache Kafka clusters in a distributed environment to ensure high availability and fault tolerance for processing financial transactions.</li>
     </ul>
 </div>
 
 <div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Engineer Co-op | Delsys</h3>
-    <p>Massachusetts, USA | Jan 2023 – Aug 2023</p>
+    <h3>Application Development Associate | Accenture, India</h3>
+    <p>Jul 2019 – Aug 2020</p>
     <ul>
-        <li>Achieved a remarkable 320ms runtime reduction aiding real-time data transfer for next-gen Delsys products</li>
-        <li>Integrated new features into Delsys software using C#, MVVM architecture reducing support queries by 7%</li>
-        <li>Innovated a portable solution to automate data exchange between the API and 20+ products in the ecosystem</li>
-        <li>Streamlined workflow for Python Firmware Software by identifying and executing software improvements</li>
-        <li>Collaborated with multiple internal teams to develop a C++ SDK, boosting team productivity and efficiency</li>
-    </ul>
-</div>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Engineer | ABP Systems and Solutions</h3>
-    <p>Maharashtra, India | Oct 2020 – Sept 2021</p>
-    <ul>
-        <li>Engineered backend for an ecommerce supply chain management system utilizing microservice architecture, using Java, Spring Boot, MySQL, Apache Kafka, Docker, and AWS for a resilient and scalable solution</li>
-        <li>Performed extensive Exploratory Data Analysis, Data Wrangling on large datasets from multiple sources using Python to analyze patterns and trends to feed into factory simulation model</li>
-        <li>Identified and handled outliers from raw data by extracting and visualizing the data distributions and statistical measures, increasing data quality by 12%, influencing product strategy for upcoming fiscal year</li>
-        <li>Introduced new services and APIs to scale operations from 4 to 9 warehouses, increasing B2B orders by 20%</li>
-        <li>Aligned novel functionalities with client expectations, influencing product strategy for upcoming fiscal year</li>
-        <li>Executed performance analysis, unraveling bottlenecks, and propelling an 11% surge in API responsiveness</li>
-    </ul>
-</div>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software and Machine Learning Intern | Adagrad AI</h3>
-    <p>Maharashtra, India | July 2020 - Sept 2020</p>
-    <ul>
-        <li>Assisted in the implementation of MLOps practices for DNN models, using Jenkins CI/CD pipeline, Docker, AWS (SageMaker, EC2, S3), GitHub to enhance application scalability to meet high-performance standards</li>
-        <li>Implemented an AI chatbot for delivering 24/7 assistance, resulting in over 1000 unique visitors per month</li>
-        <li>Elevated data-driven decision-making through successful research, implementation, and evaluation of diverse ML models, enhancing analytical insights for making business strategies for the upcoming fiscal year</li>
-    </ul>
-</div>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Developer Intern | ABP Systems and Solutions</h3>
-    <p>Maharashtra, India | Nov 2019 – May 2020</p>
-    <ul>
-        <li>Collaborated with a 10-member team to develop cutting-edge software solutions, automated deployment processes, and improved external integrations thus resulting in a 30% reduction in DevOps costs</li>
-        <li>Added monitoring and management of client instances HQ portal, enabling global support for 40+ users</li>
+        <li>Collaborated with cross-functional teams to develop and deploy scalable web applications, utilizing technologies such as Java, Spring Boot, and Angular, ensuring robust and efficient solutions for clients.</li>
+        <li>Implemented and optimized RESTful APIs to facilitate seamless communication between frontend and backend systems, enhancing the overall performance and functionality of the applications.</li>
+        <li>Utilized Agile methodologies to manage and deliver software development projects, ensuring timely delivery of high-quality solutions while adapting to changing requirements and priorities.</li>
+        <li>Contributed to the development of a large-scale enterprise application, focusing on implementing business logic, integrating third-party services, and ensuring data integrity and consistency.</li>
+        <li>Performed code reviews and conducted unit testing to ensure the quality and reliability of the developed solutions, following best practices and coding standards.</li>
+        <li>Leveraged cloud-based services such as AWS to deploy and manage applications, ensuring scalability, security, and high availability for clients' solutions.</li>
     </ul>
 </div>
 
