@@ -20,7 +20,7 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-• Software Developer with 4 years of hands-on experience in designing, developing, and deploying enterprise-level applications and software solutions across diverse industries.
+• Software Developer with 4+ years of hands-on experience in designing, developing, and deploying enterprise-level applications and software solutions across diverse industries.
 
 • Proficient in Python, with expertise in building web applications, RESTful web services, and microservices, Django, Flask, and ORM frameworks.
 
