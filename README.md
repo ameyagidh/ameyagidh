@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ameya-gidh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/ameyasgidh"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
     <a href="https://github.com/ameyagidh"><img src="https://img.shields.io/badge/GitHub-Follow-brightgreen?style=flat&logo=github"></a>
-    <a href="https://ameyagidh.netlify.app">
+    <a href="https://ameyasgidh.netlify.app">
         <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat&logo=google-chrome&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;
@@ -175,9 +175,9 @@ My coding journey began with __C__ language, and from there, I've evolved into a
 
 Let's connect and collaborate! Feel free to reach out via:
 
-- LinkedIn: [Ameya Gidh](https://www.linkedin.com/in/ameya-gidh)
+- LinkedIn: [Ameya Gidh](https://www.linkedin.com/in/ameyasgidh)
 - GitHub: [ameyagidh](https://github.com/ameyagidh)
-- Portfolio: [ameyagidh.netlify.app](https://ameyagidh.netlify.app/)
+- Portfolio: [ameyagidh.netlify.app](https://ameyasgidh.netlify.app/)
 - Tableau: [ameya.santosh.gidh](https://public.tableau.com/app/profile/ameya.santosh.gidh)
 
 Looking forward to connecting and sharing ideas! 🌐
