@@ -20,19 +20,19 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒 </h2>
 
-• Software Developer with 4+ years of hands-on experience in designing, developing, and deploying enterprise-level applications and software solutions across diverse industries.
+• Software Developer with 4 years of hands-on experience in designing, developing, deploying and managing enterprise-level applications and software solutions across diverse industries and delivering impactful results
 
-• Proficient in Python, with expertise in building web applications, RESTful web services, and microservices, Django, Flask, and ORM frameworks.
+• Proficient in Python programming, with expertise in building web apps using Django, RESTful APIs, and microservices
 
-• Skilled in front-end development using ReactJS, AngularJS, HTML5, CSS3, and JavaScript, focusing on creating dynamic and responsive user interfaces to enhance user experience.
+• Focused on creating dynamic, responsive UI/UX designs using ReactJS, AngularJS, TypeScript, HTML, and CSS3
 
-• Proficient in database management systems including MySQL, MS SQL, MongoDB, and DynamoDB, with expertise in designing and optimizing database schemas, writing complex queries, and implementing CRUD operations.
+• Experienced in database management systems (DBMS) such as MySQL, MS SQL, MongoDB and DynamoDB, with expertise in designing & optimizing schemas, and writing complex queries to efficiently fetch data from the Database
 
-• Skilled in cloud technologies and services such as AWS SQS, SNS, Lambda, S3, and Elastic Beanstalk, with hands-on experience in deploying serverless functions and scalable applications on AWS cloud infrastructure.
+• Skilled in cloud technologies and services such as AWS EC2, S3, Lambda, SQS, SNS and Elastic Beanstalk, with hands-on experience in deploying serverless functions and scalable applications on AWS cloud infrastructure
 
-• Strong understanding of Agile methodologies, including Scrum and SDLC, with a proven track record of collaborating effectively with cross-functional teams to deliver high-quality software solutions within tight deadlines.
+• Strong understanding of Agile methodologies, including Scrum and SDLC, with a proven track record of collaborating effectively with cross-functional teams to deliver high-quality software solutions within tight deadlines
 
-• Proficient in version control using Git, with experience in utilizing CI/CD tools like Jenkins for automated builds and deployments, ensuring continuous integration and delivery of code changes.
+• Competent in CI/CD tools like Jenkins for automated builds, Git for version control and Jira for project management
 
 • Excellent problem-solving and troubleshooting skills, coupled with effective communication and teamwork abilities, to drive innovation, resolve technical challenges, and deliver value-driven solutions aligned with business objectives.
 
@@ -115,12 +115,16 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <h3>Software Developer | PayPal, MA</h3>
     <p>Jul 2022 – Current</p>
     <ul>
-        <li>Engaged in overseeing the complete software development life cycle (SDLC) leveraging Unified Modeling Language (UML), which involved requirement gathering, conceptual design, analysis, detailed design, and development phases.</li>
-        <li>Implemented template-driven forms in Angular to handle user input and form submissions, ensuring a streamlined user experience for data entry and validation.</li>
-        <li>Implemented RESTful APIs using Python and its frameworks to enable communication between the frontend and backend components of the application. Utilized endpoints to perform CRUD (Create, Read, Update, Delete) operations on financial data stored in the backend database.</li>
-        <li>Integrated Amazon CloudFront, to cache and deliver static assets and dynamic content to users with low latency and high transfer speeds, enhancing the performance of the financial application.</li>
-        <li>Utilized PostgreSQL for storing and managing financial data, transactions, user information, and application metadata.</li>
-        <li>Deployed Apache Kafka clusters in a distributed environment to ensure high availability and fault tolerance for processing financial transactions.</li>
+        <li>Actively engaged in overseeing the complete Software Development Life Cycle (SDLC) leveraging Unified Modeling Language (UML), including requirement gathering, conceptual design, analysis, detailed design, and development.</li>
+        <li>Implemented template-driven forms in Angular to streamline user input and submissions, improving data entry efficiency by 25% and reducing submission errors by 15% through improved validation and feedback mechanisms.</li>
+        <li>Integrated RESTful APIs with Python to enable seamless communication between frontend and backend components.</li>
+        <li>Created endpoints to perform CRUD (Create, Read, Update, Delete) operations on financial data stored in the database.</li>
+        <li>Adopted Amazon CloudFront to cache and deliver static assets and dynamic content, resulting in a 20% reduction in latency and a 15% improvement in page load times, thus streamlining user experience and enhancing user satisfaction.</li>
+        <li>Utilized PostgreSQL to efficiently store and manage financial data, transactions, user information, and application metadata, resulting in enhanced data management and improved retrieval efficiency for the entire application system.</li>
+        <li>Deployed Apache Kafka clusters in a distributed, fault-tolerant manner across multiple nodes and data centers, using Kafka's partitioning and replication mechanisms to achieve horizontal scalability, high availability, and fault tolerance.</li>
+        <li>Incorporated a secure user authentication and authorization system using Django, securing over 10,000 accounts.</li>
+        <li>Reviewed SonarQube reports to identify and prioritize issues, addressed critical problems, and refactored code to increase readability, maintainability, and performance, leading to improved code quality and system stability.</li>
+        <li>Followed Agile methodologies by conducting daily stand-ups and organizing bi-weekly sprint planning sessions and facilitating a continuous feedback mechanism, thus improving team communication and project delivery efficiency.</li>
     </ul>
 </div>
 
@@ -129,11 +133,19 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <p>Jul 2019 – Aug 2020</p>
     <ul>
         <li>Collaborated with cross-functional teams to develop and deploy scalable web applications, utilizing technologies such as Java, Spring Boot, and Angular, ensuring robust and efficient solutions for clients.</li>
+        <li>Designed a robust CRM system using Python for back-end logic and Angular for dynamic front-end rendering.</li>
+        <li>Streamlined database operations by adopting SQLAlchemy, configuring CORS, and using React hooks to perform asynchronous operations for fetching data from back-end APIs, thus improving data retrieval efficiency by 25%.</li>
+        <li>Built a web layer for the CRM system using Flask, to facilitate the creation of REST APIs and efficiently manage requests.</li>
         <li>Implemented and optimized RESTful APIs to facilitate seamless communication between frontend and backend systems, enhancing the overall performance and functionality of the applications.</li>
+        <li>Employed machine learning algorithms to optimize pricing strategies by analyzing market demand, competitor pricing, and customer behavior, resulting in a 10% increase in revenue and a 15% improvement in profitability over six months.</li>
+        <li>Coordinated with a 10-member team to build interactive visualizations using Python, SQL, and Tableau to analyze large-scale data on seller listings, seasonality, and marketing, resulting in a 25% increase in monthly sales performance.</li>
+        <li>Aligned novel functionalities closely with client expectations, influencing product strategy for the upcoming fiscal year.</li>
+        <li>Connected legacy systems with modern applications by leveraging SOAP protocol to migrate historical codebase into a new, improved in-house framework, resulting in improved overall system interoperability and functionality.</li>
         <li>Utilized Agile methodologies to manage and deliver software development projects, ensuring timely delivery of high-quality solutions while adapting to changing requirements and priorities.</li>
-        <li>Contributed to the development of a large-scale enterprise application, focusing on implementing business logic, integrating third-party services, and ensuring data integrity and consistency.</li>
         <li>Performed code reviews and conducted unit testing to ensure the quality and reliability of the developed solutions, following best practices and coding standards.</li>
         <li>Leveraged cloud-based services such as AWS to deploy and manage applications, ensuring scalability, security, and high availability for clients' solutions.</li>
+        <li>Established robust Continuous Integration/Continuous Deployment (CI/CD) pipelines with Jenkins, utilized Git for version control, and leveraged Python scripts for automation, resulting in a 17% reduction in deployment errors.</li>
+        <li>Containerized microservices using Docker and managed them with AWS, significantly enhancing system reliability, maintainability, and scalability by ensuring consistent deployments and efficient resource management.</li>
     </ul>
 </div>
 
