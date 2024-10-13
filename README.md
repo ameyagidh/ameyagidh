@@ -108,47 +108,6 @@ My coding journey began with __C__ language, and from there, I've evolved into a
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-
-<h2> 💼 Professional Experience 💼 </h2>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Software Developer | PayPal, MA</h3>
-    <p>Jul 2022 – Current</p>
-    <ul>
-        <li>Actively engaged in overseeing the complete Software Development Life Cycle (SDLC) leveraging Unified Modeling Language (UML), including requirement gathering, conceptual design, analysis, detailed design, and development.</li>
-        <li>Implemented template-driven forms in Angular to streamline user input and submissions, improving data entry efficiency by 25% and reducing submission errors by 15% through improved validation and feedback mechanisms.</li>
-        <li>Integrated RESTful APIs with Python to enable seamless communication between frontend and backend components.</li>
-        <li>Created endpoints to perform CRUD (Create, Read, Update, Delete) operations on financial data stored in the database.</li>
-        <li>Adopted Amazon CloudFront to cache and deliver static assets and dynamic content, resulting in a 20% reduction in latency and a 15% improvement in page load times, thus streamlining user experience and enhancing user satisfaction.</li>
-        <li>Utilized PostgreSQL to efficiently store and manage financial data, transactions, user information, and application metadata, resulting in enhanced data management and improved retrieval efficiency for the entire application system.</li>
-        <li>Deployed Apache Kafka clusters in a distributed, fault-tolerant manner across multiple nodes and data centers, using Kafka's partitioning and replication mechanisms to achieve horizontal scalability, high availability, and fault tolerance.</li>
-        <li>Incorporated a secure user authentication and authorization system using Django, securing over 10,000 accounts.</li>
-        <li>Reviewed SonarQube reports to identify and prioritize issues, addressed critical problems, and refactored code to increase readability, maintainability, and performance, leading to improved code quality and system stability.</li>
-        <li>Followed Agile methodologies by conducting daily stand-ups and organizing bi-weekly sprint planning sessions and facilitating a continuous feedback mechanism, thus improving team communication and project delivery efficiency.</li>
-    </ul>
-</div>
-
-<div style="border-left: 2px solid #3498db; padding-left: 10px; margin-bottom: 20px;">
-    <h3>Application Development Associate | Accenture, India</h3>
-    <p>Jul 2019 – Aug 2020</p>
-    <ul>
-        <li>Collaborated with cross-functional teams to develop and deploy scalable web applications, utilizing technologies such as Java, Spring Boot, and Angular, ensuring robust and efficient solutions for clients.</li>
-        <li>Designed a robust CRM system using Python for back-end logic and Angular for dynamic front-end rendering.</li>
-        <li>Streamlined database operations by adopting SQLAlchemy, configuring CORS, and using React hooks to perform asynchronous operations for fetching data from back-end APIs, thus improving data retrieval efficiency by 25%.</li>
-        <li>Built a web layer for the CRM system using Flask, to facilitate the creation of REST APIs and efficiently manage requests.</li>
-        <li>Implemented and optimized RESTful APIs to facilitate seamless communication between frontend and backend systems, enhancing the overall performance and functionality of the applications.</li>
-        <li>Employed machine learning algorithms to optimize pricing strategies by analyzing market demand, competitor pricing, and customer behavior, resulting in a 10% increase in revenue and a 15% improvement in profitability over six months.</li>
-        <li>Coordinated with a 10-member team to build interactive visualizations using Python, SQL, and Tableau to analyze large-scale data on seller listings, seasonality, and marketing, resulting in a 25% increase in monthly sales performance.</li>
-        <li>Aligned novel functionalities closely with client expectations, influencing product strategy for the upcoming fiscal year.</li>
-        <li>Connected legacy systems with modern applications by leveraging SOAP protocol to migrate historical codebase into a new, improved in-house framework, resulting in improved overall system interoperability and functionality.</li>
-        <li>Utilized Agile methodologies to manage and deliver software development projects, ensuring timely delivery of high-quality solutions while adapting to changing requirements and priorities.</li>
-        <li>Performed code reviews and conducted unit testing to ensure the quality and reliability of the developed solutions, following best practices and coding standards.</li>
-        <li>Leveraged cloud-based services such as AWS to deploy and manage applications, ensuring scalability, security, and high availability for clients' solutions.</li>
-        <li>Established robust Continuous Integration/Continuous Deployment (CI/CD) pipelines with Jenkins, utilized Git for version control, and leveraged Python scripts for automation, resulting in a 17% reduction in deployment errors.</li>
-        <li>Containerized microservices using Docker and managed them with AWS, significantly enhancing system reliability, maintainability, and scalability by ensuring consistent deployments and efficient resource management.</li>
-    </ul>
-</div>
-
 <!-- Add other experiences here -->
 
 <h2>🔍 Notable Projects 🚀</h2>
