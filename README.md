@@ -36,11 +36,8 @@
 
 • Excellent problem-solving and troubleshooting skills, coupled with effective communication and teamwork abilities, to drive innovation, resolve technical challenges, and deliver value-driven solutions aligned with business objectives.
 
-<h2>🪚🔧 My Skills 🛠️</h2>
-
-My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Java__, __C++__, and __JavaScript__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__, __Full Stack Developer__, and __Machine Learning Engineer__. My toolkit includes:
-
 <h2>🔧 My Skills 🔧</h2>
+My coding journey began with __C__ language, and from there, I've evolved into a Python enthusiast. Proficiency in languages like __Java__, __C++__, and __JavaScript__ forms the backbone of my journey, where I've grown from a coding enthusiast into a skilled __Software Engineer__, __Full Stack Developer__, and __Machine Learning Engineer__. My toolkit includes:
 
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
